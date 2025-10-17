@@ -27,6 +27,7 @@ body{
     background: var(--White);
     display: flex;
     justify-content: center;
+    align-item: center;
     border-radius: 10px;
     margin: 50px auto 20px;
 }
@@ -154,3 +155,4 @@ img{
 .attribution { font-size: 11px; text-align: center; }
 
     .attribution a { color: hsl(228, 45%, 44%); }
+
